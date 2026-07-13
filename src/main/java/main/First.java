@@ -6,7 +6,9 @@ public class First {
 	   {
 		   int x=58;
 		  int  y=20;
+		  int mul=x-y;
 		   System.out.println("X="+x+" "+"Y="+y);
+		   System.out.println("multiplication="+mul);
 	   }
 	
 	public static void main(String[] args) {
